@@ -1,0 +1,39 @@
+22 jan 2023 
+
+0. Accept the fact that you have not understood the basics of Javascript. That's why, you are revising it.
+1. Learn Event Bubbling - Why we need to give optional value in addEventListner
+
+2. Don't know how to get the input value from input tag and use it in counter function.
+
+3. Avoid using innerHtml to run some Javascript becaue it is more exposed/attacked by Hackers.
+
+4. Learnt the difference between innerHTML, innerText and textContent
+innerHTML = returns all the HTML markup including tags, space or styles.
+innerText = returns only the text inside an element ( plain text ), without spaces, styeles
+textContent = returns text along with styles, 
+              "prevent XSS attacks "
+
+Note: Use textContent instead of innerHTML or innerText ( reference : MDN Docs on textContent )
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+** Why are you doing this *** 
+- Foundation of Machine Coding Round
+- Start with this, build couple of mini projects 
+- Familiar with concepts
+- Main Advantage : It removes fear from you that you don't belongs to JS Community.
+                   It helps you brushing the JS Concepts - DOM Manipulation.
