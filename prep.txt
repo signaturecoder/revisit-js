@@ -29,7 +29,34 @@ Note: Use textContent instead of innerHTML or innerText ( reference : MDN Docs o
 
 
 
-
+<!-- <li class="list-group-item d-flex justify-content-between">
+    <div class="d-flex flex-column">
+        Tshirt
+        <small class="text-muted">March 11, 2019</small>
+    </div>
+    <div>
+        <span class="px-5">
+            500
+        </span>
+        <button type="button" class="btn btn-outline-danger btn-sm">
+            <i class="fas fa-trash-alt"></i>
+        </button>
+    </div>
+</li>
+<li class="list-group-item d-flex justify-content-between">
+    <div class="d-flex flex-column">
+        Movie
+        <small class="text-muted">Feb 12, 2019</small>
+    </div>
+    <div>
+        <span class="px-5">
+            1500
+        </span>
+        <button type="button" class="btn btn-outline-danger btn-sm">
+            <i class="fas fa-trash-alt"></i>
+        </button>
+    </div>
+</li> -->
 
 ** Why are you doing this *** 
 - Foundation of Machine Coding Round
